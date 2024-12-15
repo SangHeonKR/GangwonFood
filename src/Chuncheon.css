@@ -1,0 +1,92 @@
+.chuncheon-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .chuncheon-title {
+    color: blue;
+  }
+  
+  .chuncheon-dish {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .chuncheon-dish:hover {
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .chuncheon-dish img {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover; 
+    border-radius: 8px;
+  }
+  
+  .chuncheon-dish h2 {
+    margin: 10px 0;
+  }
+  
+  .chuncheon-dish p {
+    margin: 0;
+  }
+  
+
+  body.dark-mode .chuncheon-page {
+    background-color: #121212;
+    color: white;
+  }
+  
+  body.dark-mode .chuncheon-title {
+    color: lightblue;
+  }
+  
+  body.dark-mode .chuncheon-dish {
+    background-color: #2c2c2c;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.1);
+  }
+  
+  body.dark-mode .chuncheon-dish:hover {
+    box-shadow: 0px 8px 16px rgba(255, 255, 255, 0.2);
+  }
+  
+  body.dark-mode .footer {
+    background-color: #1e1e1e;
+    color: white;
+  }
+  
+  body.dark-mode .footer-content {
+    background-color: #1e1e1e;
+    color: white;
+  }
+  
+  body.dark-mode .region-buttons {
+    background-color: #1e1e1e;
+  }
+  
+  body.dark-mode .region-button {
+    background-color: white;
+    color: black;
+  }
+  
+  body.dark-mode .region-button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  body.dark-mode .more {
+    background-color: white;
+    color: black;
+  }
+  
+  body.dark-mode .more:hover {
+    background-color: #e0e0e0;
+  }
+  
