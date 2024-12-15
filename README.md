@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 강원도 로컬 음식 추천 홈페이지
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![강원도 로컬 음식]
+> 강원도 지역의 특색 있는 로컬 음식을 소개하고 추천하는 플랫폼입니다.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📋 프로젝트 개요
 
-### `npm start`
+강원도 지역의 다양한 로컬 음식을 소개하고, 사용자들이 해당 음식의 맛과 특징을 쉽게 알아볼 수 있도록 제작한 웹 플랫폼입니다. 강원도를 찾는 관광객들과 지역 주민들이 유용하게 활용할 수 있는 홈페이지입니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **제작자**: 한림대학교 경제학과 **임상헌**
+- **목적**: 강원도 로컬 음식의 매력을 널리 알리고, 음식 추천 및 관련 정보를 제공
+- **특징**: 사용자가 쉽고 직관적으로 강원도의 로컬 음식을 탐색 가능
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🌟 주요 기능
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **강원도 로컬 음식 소개**  
+   - 강원도에서만 맛볼 수 있는 다양한 음식들을 사진과 설명으로 제공.
 
-### `npm run build`
+2. **추천 음식 필터링**  
+   - 계절별, 지역별, 선호도별 추천 음식 검색 가능.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **지도 기반 음식점 정보 제공**  
+   - 특정 음식의 인기 음식점을 지도와 함께 안내.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **사용자 리뷰 및 별점**  
+   - 사용자들이 음식에 대한 리뷰와 별점을 남길 수 있는 기능.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. **반응형 디자인**  
+   - 모바일 및 PC에서도 최적화된 화면 제공.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
